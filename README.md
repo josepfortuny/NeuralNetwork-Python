@@ -1,14 +1,17 @@
 # NeuralNetwork-Python
 
 ## Use Case 
-Is a neural network with three input layers and one output layer, with a sigmoid Function with the following 
+Is a neural network with three input layers and one output layer that uses a sigmoid Function and has the following matriz: 
+
+![Matriz](https://github.com/josepfortuny/NeuralNetwork-Python/blob/main/AuxiliarFiles/MatrixChoice.JPG)
+
 The aim of this project is the creation of an adaptable Neural Network with two hidden layers where the user can specify the following characterístics:
 * The number of Neurons in the first layer
 * The number of Neurons in the second layer
 * How many childs in each generation
 * Number of generations 
 
-
+The user also can visualize the acumulated error in each mutation and iteration of the code.
 
 ## Installation 
 
