@@ -1,4 +1,14 @@
-# Python-NeuralNetwork
+# NeuralNetwork-Python
+
+## Use Case 
+Is a neural network with three input layers and one output layer, with a sigmoid Function with the following 
+The aim of this project is the creation of an adaptable Neural Network with two hidden layers where the user can specify the following characterístics:
+* The number of Neurons in the first layer
+* The number of Neurons in the second layer
+* How many childs in each generation
+* Number of generations 
+
+
 
 ## Installation 
 
